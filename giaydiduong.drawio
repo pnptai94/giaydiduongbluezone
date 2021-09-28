@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T02:53:57.379Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="BlRiuZztV8cMaGBOA5uT" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T02:59:41.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Er42aI5GSIcV7CbGRXAc" version="15.3.5" type="github">
   <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="8f64qvsZTYQRd2PqQDZX-16" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Cán bộ quản trị cấp giấy đi&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;đường điện tử&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="284" y="50" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8f64qvsZTYQRd2PqQDZX-17" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;Cán bộ tổ kiểm soát, tuần tra lưu động&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-17" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Cán bộ tổ kiểm soát, tuần tra&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; lưu động&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="570" y="50" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8f64qvsZTYQRd2PqQDZX-18" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_128x128.png;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
