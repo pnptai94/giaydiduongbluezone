@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T03:13:05.732Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ECENviqG5a4U6cKpfNf8" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T03:13:56.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="8DZaASIsZCwymN65pRbV" version="15.3.5" type="github">
   <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,9 @@
             <mxPoint x="300" y="220" as="sourcePoint" />
             <mxPoint x="350" y="170" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-36" value="Gửi thông tin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="222" y="132" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
