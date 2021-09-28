@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T03:03:38.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="eYagtFeNFPEYaHW22jb6" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T03:04:33.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="RQ8f6_p6lB8To4FMDmHQ" version="15.3.5" type="github">
   <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="8f64qvsZTYQRd2PqQDZX-24" value="" style="image;html=1;image=img/lib/clip_art/people/Pilot_Woman_128x128.png;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
           <mxGeometry x="583" y="55" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-26" value="Gửi thông tin đề nghị cấp giấy đi đường" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="270" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
