@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T06:42:39.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="YIIyJ5a1NGwMH3LKmIaJ" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T06:43:13.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="1eX6y2mHgMWiwbp7JX-P" version="15.3.5" type="github">
   <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
-    <mxGraphModel dx="2333" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2071" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8f64qvsZTYQRd2PqQDZX-72" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Yêu cầu kiểm tra thông tin giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#6666FF;" parent="1" vertex="1">
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-72" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Yêu cầu kiểm tra thông tin giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="650" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8f64qvsZTYQRd2PqQDZX-73" value="" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF9999;" parent="1" vertex="1">
@@ -173,7 +173,7 @@
         <mxCell id="8f64qvsZTYQRd2PqQDZX-80" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Mã QR trên ứng dụng Bluezone hoặc trên giấy đi đường đã được in ra&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#6666FF;" parent="1" vertex="1">
           <mxGeometry x="60" y="700" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8f64qvsZTYQRd2PqQDZX-81" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Kiểm tra thông tin&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" parent="1" vertex="1">
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-81" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Kiểm tra thông tin&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="650" y="820" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="8f64qvsZTYQRd2PqQDZX-82" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" parent="1" source="8f64qvsZTYQRd2PqQDZX-90" target="8f64qvsZTYQRd2PqQDZX-80" edge="1">
@@ -182,7 +182,7 @@
             <mxPoint x="350" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8f64qvsZTYQRd2PqQDZX-83" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Sử dụng ứng dụng Bluezone quét mã QR giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#6666FF;" parent="1" vertex="1">
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-83" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Sử dụng ứng dụng Bluezone quét mã QR giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF8000;" parent="1" vertex="1">
           <mxGeometry x="650" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8f64qvsZTYQRd2PqQDZX-84" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;targetPerimeterSpacing=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8f64qvsZTYQRd2PqQDZX-87" target="8f64qvsZTYQRd2PqQDZX-83" edge="1">
@@ -242,7 +242,7 @@
             <mxPoint x="190" y="865" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="33yD9v1-QD8rOYYIZOmJ-8" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Yêu cầu kiểm tra thông tin giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#6666FF;" vertex="1" parent="1">
+        <mxCell id="33yD9v1-QD8rOYYIZOmJ-8" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Yêu cầu kiểm tra thông tin giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="650" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
