@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T01:10:49.826Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" version="15.3.5" etag="XqYZEChqDX0Aj-wkUK7S" type="github"><diagram id="aXsHD7Z4nfJTBLjKKZMQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-28T02:42:19.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="cznzB0x6d4CnAiIO9OHZ" version="15.3.5" type="github">
+  <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
+    <mxGraphModel dx="1221" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot; color=&quot;#ff8e1c&quot;&gt;Quy trình Cấp và Kiểm tra giấy đi đường điện tử trên Hệ thống Bluezone&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry width="850" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
