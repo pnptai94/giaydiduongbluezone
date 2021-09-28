@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T06:43:27.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="s3a37lkly14MjmrPS8vu" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T06:43:56.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="9HRICylRh_TMhkGUar9p" version="15.3.5" type="github">
   <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
-    <mxGraphModel dx="1566" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1715" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,21 @@
         </mxCell>
         <mxCell id="33yD9v1-QD8rOYYIZOmJ-8" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Yêu cầu kiểm tra thông tin giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry x="650" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="33yD9v1-QD8rOYYIZOmJ-9" value="" style="endArrow=classic;html=1;startSize=14;endSize=14;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="1" source="33yD9v1-QD8rOYYIZOmJ-10" target="33yD9v1-QD8rOYYIZOmJ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="1000" as="sourcePoint" />
+            <mxPoint x="640" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="33yD9v1-QD8rOYYIZOmJ-10" value="Thông tin không hợp lệ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="661" y="930" width="98" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33yD9v1-QD8rOYYIZOmJ-11" value="" style="endArrow=none;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8f64qvsZTYQRd2PqQDZX-81" target="33yD9v1-QD8rOYYIZOmJ-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="910" as="sourcePoint" />
+            <mxPoint x="710" y="1000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
