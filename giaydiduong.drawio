@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T03:15:51.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="bBT5t4atUjJY9rxhkzqn" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T03:16:03.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="qUlwiabeZzXM3NvEC_nH" version="15.3.5" type="github">
   <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
     <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry x="219" y="132" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="8f64qvsZTYQRd2PqQDZX-38" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;Tổng hợp thông tin cấp giấy đi đường&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="360" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="366" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
