@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-28T02:47:55.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="FfpC_zUGUVknaRSDXXDA" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-28T02:49:32.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="XCE2W97M3e9bUC313qJR" version="15.3.5" type="github">
   <diagram id="aXsHD7Z4nfJTBLjKKZMQ" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,14 +7,14 @@
         <mxCell id="8f64qvsZTYQRd2PqQDZX-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 22px&quot; color=&quot;#ffffff&quot;&gt;Quy trình Cấp và Kiểm tra giấy đi đường điện tử trên Hệ thống Bluezone&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#FF8000;" vertex="1" parent="1">
           <mxGeometry width="850" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8f64qvsZTYQRd2PqQDZX-15" value="&lt;font color=&quot;#ffffff&quot;&gt;Cán bộ, Công chức, Viên chức&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry y="50" width="280" height="60" as="geometry" />
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-15" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;Cán bộ, Công chức, Viên chức&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry y="50" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8f64qvsZTYQRd2PqQDZX-16" value="&lt;font color=&quot;#ffffff&quot;&gt;Cán bộ, Công chức, Viên chức&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="284" y="50" width="280" height="60" as="geometry" />
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-16" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;Cán bộ quản trị cấp giấy đi đường điện tử&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="284" y="50" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8f64qvsZTYQRd2PqQDZX-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Cán bộ, Công chức, Viên chức&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
-          <mxGeometry x="570" y="50" width="280" height="60" as="geometry" />
+        <mxCell id="8f64qvsZTYQRd2PqQDZX-17" value="&lt;font color=&quot;#ffffff&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 15px&quot;&gt;Cán bộ tổ kiểm soát, tuần tra lưu động&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#00CC00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="50" width="280" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
