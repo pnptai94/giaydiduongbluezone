@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T03:37:19.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="ams_p1gHasTdVjHL--Kq" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T03:37:28.770Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Fak3hpzesGz9E8imw80N" version="15.7.3" type="github">
   <diagram id="INZySs0cjXDZFRDGY-CA" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ksOG_NAHe54KqmvVW3Z6-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="381" y="193" width="115" height="107" as="geometry" />
+          <mxGeometry x="381" y="193" width="102" height="107" as="geometry" />
         </mxCell>
         <mxCell id="ksOG_NAHe54KqmvVW3Z6-2" value="" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=none;strokeColor=#3399FF;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="63" y="26" width="186" height="106" as="geometry" />
