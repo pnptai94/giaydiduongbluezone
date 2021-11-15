@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T03:43:57.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3-sOnEjMHJjyAcYBRn5m" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T03:46:10.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="LAz5Cj-KaJx1mEPuBJCf" version="15.7.3" type="github">
   <diagram id="INZySs0cjXDZFRDGY-CA" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -45,6 +45,18 @@
         </mxCell>
         <mxCell id="ksOG_NAHe54KqmvVW3Z6-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelBackgroundColor=#FFFFFF;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="547" y="408" width="246" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-14" value="Vùng mạng Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="132" y="414" width="114" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-15" value="MTSLCD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="642" y="64" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-16" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="129" y="61" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-17" value="Vùng mạng Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="622" y="411" width="114" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
