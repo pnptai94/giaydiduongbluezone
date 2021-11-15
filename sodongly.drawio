@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T03:55:12.831Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9lniCGHxfH01EpwfjmGg" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T03:55:29.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="KIbddpPhXkGKzDdX7Ocz" version="15.7.3" type="github">
   <diagram id="INZySs0cjXDZFRDGY-CA" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,10 +43,10 @@
         <mxCell id="ksOG_NAHe54KqmvVW3Z6-14" value="&lt;b style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;DMZ Server&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="127" y="483" width="114" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ksOG_NAHe54KqmvVW3Z6-15" value="MTSLCD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-15" value="&lt;b&gt;MTSLCD&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="642" y="64" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ksOG_NAHe54KqmvVW3Z6-16" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-16" value="&lt;b&gt;Internet&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="129" y="61" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ksOG_NAHe54KqmvVW3Z6-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px ; background-color: rgb(255 , 255 , 255)&quot;&gt;LAN Server&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
@@ -106,10 +106,10 @@
         <mxCell id="ksOG_NAHe54KqmvVW3Z6-33" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;labelBackgroundColor=#FFFFFF;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="380" y="371" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ksOG_NAHe54KqmvVW3Z6-37" value="Firewall" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-37" value="&lt;b&gt;Firewall&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="400" y="157" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ksOG_NAHe54KqmvVW3Z6-38" value="Switch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ksOG_NAHe54KqmvVW3Z6-38" value="&lt;b&gt;Switch&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="393" y="425" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
