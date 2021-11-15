@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T03:08:10.977Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="8WQazxwl4TngenvHJjYa" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T03:11:00.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="lQJSnXp0kKa8yd7MM1T5" version="15.7.3" type="github">
   <diagram id="vFVZr5ZUK7QjxJgk3TGd" name="Page-1">
     <mxGraphModel dx="1014" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="432" y="240" width="355" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-4" value="DMZ Zone" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;" vertex="1" parent="1">
-          <mxGeometry x="10" y="240" width="240" height="20" as="geometry" />
+          <mxGeometry x="10" y="240" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_GwrwizW0Nzzv00RuE5P-6" target="_GwrwizW0Nzzv00RuE5P-22">
           <mxGeometry relative="1" as="geometry" />
@@ -176,10 +176,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-67" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="43" height="62" as="geometry" />
+          <mxGeometry x="70" y="290" width="43" height="62" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-68" value="FTP Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="368" width="78.5" height="20" as="geometry" />
+          <mxGeometry x="52.25" y="360" width="78.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-69" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.firewall;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-70" value="" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=none;strokeColor=#66B2FF;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-71" value="" style="shape=mxgraph.cisco.storage.cloud;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=none;strokeColor=#66B2FF;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="517" y="20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-72" value="Internet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="34.5" y="50" width="78.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-73" value="MTSLCD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="547" y="50" width="78.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
