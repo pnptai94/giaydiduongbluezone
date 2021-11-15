@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T03:17:33.692Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="yZCHHy5cNWriG0GJWIWc" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T03:18:58.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="s1Ztb4TvXsLpTuT8Unqb" version="15.7.3" type="github">
   <diagram id="vFVZr5ZUK7QjxJgk3TGd" name="Page-1">
-    <mxGraphModel dx="1014" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="594" dy="332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="432" y="240" width="355" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-4" value="DMZ Zone" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;" vertex="1" parent="1">
-          <mxGeometry x="30" y="240" width="180" height="20" as="geometry" />
+          <mxGeometry x="10" y="240" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_GwrwizW0Nzzv00RuE5P-6" target="_GwrwizW0Nzzv00RuE5P-22">
           <mxGeometry relative="1" as="geometry" />
@@ -175,8 +175,16 @@
             <mxPoint x="433" y="539.8299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_GwrwizW0Nzzv00RuE5P-67" target="_GwrwizW0Nzzv00RuE5P-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="118" y="260" />
+              <mxPoint x="118" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-67" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="96" y="292" width="43" height="62" as="geometry" />
+          <mxGeometry x="96" y="290" width="43" height="64" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-68" value="Vitual Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75.25" y="360" width="78.5" height="20" as="geometry" />
@@ -217,11 +225,22 @@
         <mxCell id="_GwrwizW0Nzzv00RuE5P-81" value="10.160.1.X" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="95.5" y="218" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.771;entryY=1.055;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="_GwrwizW0Nzzv00RuE5P-82" target="_GwrwizW0Nzzv00RuE5P-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-82" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="165.5" y="290" width="43" height="62" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-83" value="FTP Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="147.75" y="360" width="78.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="_GwrwizW0Nzzv00RuE5P-84" target="_GwrwizW0Nzzv00RuE5P-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="50" y="273" />
+              <mxPoint x="50" y="273" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-84" value="" style="shape=mxgraph.cisco.servers.fileserver;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="28.25" y="293" width="43" height="62" as="geometry" />
