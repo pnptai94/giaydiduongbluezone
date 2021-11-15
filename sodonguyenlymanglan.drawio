@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-11-15T02:39:45.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="voLcKXxvSSHT-LJ-YtMJ" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-15T02:45:23.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="QrVTY8ZZy7yFkhxnoxz8" version="15.7.3" type="github">
   <diagram id="vFVZr5ZUK7QjxJgk3TGd" name="Page-1">
     <mxGraphModel dx="862" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_GwrwizW0Nzzv00RuE5P-2" value="LAN Zone" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;" vertex="1" parent="1">
-          <mxGeometry x="470" y="240" width="350" height="20" as="geometry" />
+          <mxGeometry x="420" y="240" width="350" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_GwrwizW0Nzzv00RuE5P-4" value="DMZ Zone" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.bus;gradientColor=none;gradientDirection=north;fontColor=#ffffff;perimeter=backbonePerimeter;backboneSize=20;" vertex="1" parent="1">
           <mxGeometry x="50" y="240" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-8" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="750" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_GwrwizW0Nzzv00RuE5P-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
