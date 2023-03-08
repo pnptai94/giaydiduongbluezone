@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T07:41:00.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6Sp8IKUsFy6g497DIrfh" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T07:43:42.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="eUpvwANe5l3G2O-ZWCXx" version="21.0.2" type="github">
   <diagram name="Page-1" id="Th9WDw9-diz3yLhj7kX8">
-    <mxGraphModel dx="1114" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,6 +60,12 @@
         </mxCell>
         <mxCell id="m0UdgJs6NEkLgoWt-vli-15" value="ngaycapnhat: datetime" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m0UdgJs6NEkLgoWt-vli-9">
           <mxGeometry y="286" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="m0UdgJs6NEkLgoWt-vli-65" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmany;startArrow=ERmany;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="m0UdgJs6NEkLgoWt-vli-9" source="m0UdgJs6NEkLgoWt-vli-10" target="m0UdgJs6NEkLgoWt-vli-16">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="-90" y="138" as="sourcePoint" />
+            <mxPoint x="250" y="-10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m0UdgJs6NEkLgoWt-vli-21" value="DM_Co_Quan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="280" width="140" height="156" as="geometry" />
@@ -136,8 +142,11 @@
         <mxCell id="m0UdgJs6NEkLgoWt-vli-58" value="Many-to-Many" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" vertex="1" parent="1">
           <mxGeometry x="225" y="307" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="m0UdgJs6NEkLgoWt-vli-61" value="One-to-One" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=35;" vertex="1" parent="1">
-          <mxGeometry x="499" y="135" width="80" height="30" as="geometry" />
+        <mxCell id="m0UdgJs6NEkLgoWt-vli-61" value="One-to-One" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=40;" vertex="1" parent="1">
+          <mxGeometry x="510" y="116" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m0UdgJs6NEkLgoWt-vli-66" value="One-to-One" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="488" y="154" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
