@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T07:54:04.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gB9shCB_Sp1grJ6tWLjw" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T07:54:49.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="P13qSmMPc-6i5UxxxWXb" version="21.0.2" type="github">
   <diagram name="Page-1" id="Th9WDw9-diz3yLhj7kX8">
     <mxGraphModel dx="928" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="m0UdgJs6NEkLgoWt-vli-1" value="DM_Van_Ban" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="140" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="m0UdgJs6NEkLgoWt-vli-2" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m0UdgJs6NEkLgoWt-vli-1">
+        <mxCell id="m0UdgJs6NEkLgoWt-vli-2" value="id: int (Primary key)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m0UdgJs6NEkLgoWt-vli-1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="m0UdgJs6NEkLgoWt-vli-3" value="ten: varchar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m0UdgJs6NEkLgoWt-vli-1">
@@ -28,7 +28,7 @@
         <mxCell id="m0UdgJs6NEkLgoWt-vli-9" value="DM_Chi_Tieu" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="80" width="170" height="312" as="geometry" />
         </mxCell>
-        <mxCell id="m0UdgJs6NEkLgoWt-vli-10" value="id: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m0UdgJs6NEkLgoWt-vli-9">
+        <mxCell id="m0UdgJs6NEkLgoWt-vli-10" value="id: int ((Primary key)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m0UdgJs6NEkLgoWt-vli-9">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="m0UdgJs6NEkLgoWt-vli-11" value="ten: varchar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="m0UdgJs6NEkLgoWt-vli-9">
